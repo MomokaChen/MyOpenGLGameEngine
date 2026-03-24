@@ -9,7 +9,7 @@ A lightweight self-developed game engine based on the DirectX 12 API. Currently 
 This project is learned and referenced from The Cherno's Game Engine Development series.
 
 ## 项目结构
-- 引擎框架：Halze
+- 引擎框架：Hazel
 - 测试示例：Sandbox
 - 图形 API：DirectX 12
 - 开发状态：持续学习更新中
