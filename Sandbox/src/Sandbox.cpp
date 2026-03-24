@@ -1,19 +1,17 @@
 #include "Hazel.h"
 
-class Sanbox : public Hazel::Application
+class Sandbox : public Hazel::Application
 {
 public:
-	Sanbox() 
+	Sandbox() 
 	{
 	}
-	~Sanbox() 
+	~Sandbox() 
 	{
 	}
 
 };
 
-
-void main() {
-	Hazel::Print();
+Hazel::Application* Hazel::CreateApplication() {
+	return new Sandbox();
 }
-//$(SolutionDir)Hazel\src;

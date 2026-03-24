@@ -81,7 +81,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Halze\Halze.vcxproj">
+    <ProjectReference Include="..\Hazel\Hazel.vcxproj">
       <Project>{b83c3e3d-84c5-480a-aa8a-d14b7263b370}</Project>
     </ProjectReference>
   </ItemGroup>

@@ -13,6 +13,9 @@ namespace Hazel {
 		void Run();
 	};
 
+	// To be defined in CLTENT
+	Application* CreateApplication();
+
 }
 
 
