@@ -1,0 +1,16 @@
+# 忽略 VS 缓存
+.vs/
+*.vcxproj.user
+*.sln
+*.obj
+*.exe
+*.pdb
+*.ilk
+
+# 忽略编译输出
+x64/
+Debug/
+Release/
+
+# 忽略系统垃圾文件
+Thumbs.db
